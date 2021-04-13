@@ -9,6 +9,7 @@
 
 ; If you want this to work in Administrator windows, you must run the script as Administrator
 ; You can also set the script to start up as a task in Scheduled Tasks, select "Run with highest privileges" to run as Administrator
+; If the script is running and you've made changes to it, press Win+F4 to reload the script
 
 ; Reference for keys (use the symbol)
 ;	Alt		!
@@ -21,8 +22,7 @@
 #Hotstring EndChars `t
 
 GUI, 1:+AlwaysOnTop -Border -SysMenu +Owner -Caption +ToolWindow
-
-Gui, Add, ListBox, gAction vChoice w200 h60, CloudFlare|nuGet|Magento
+Gui, Add, ListBox, gAction vChoice w200 h150, CloudFlare|nuGet|Magento
 
 ; Press Win+Esc to bring up the GUI
 #ESC::
