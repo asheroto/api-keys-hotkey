@@ -3,7 +3,7 @@
 
 Simple AutoHotkey script you can edit to add your API keys and press Win+Esc to bring them up.
 
-![enter image description here](https://github.com/asheroto/api-keys-hotkey/blob/master/example.gif?raw=true)
+![Script Example](https://raw.githubusercontent.com/asheroto/api-keys-hotkey/master/example.gif)
 
 # Prerequisites
 
