@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API Keys Hotkey 
 Simple AutoHotkey script you can edit to add your API keys and press Win+Esc to bring them up.
 
@@ -12,3 +13,8 @@ Simple AutoHotkey script you can edit to add your API keys and press Win+Esc to 
 - Once everything is changed, **save it and run it**
 - You may need to "Run as Administrator" in order for it to type on Administrator windows, see script notes
 - Optionally you can **compile the script to an EXE file**
+=======
+# API Keys Hotkey
+
+Simple AutoHotkey script you can edit to add your API keys and press Win+Esc to bring them up.
+>>>>>>> parent of 1c10a1e (Initial)
