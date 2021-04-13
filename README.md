@@ -1,7 +1,7 @@
 
 # API Keys Hotkey
 
-Simple AutoHotkey script you can edit to add your API keys and press Win+Esc to bring them up.
+Simple AutoHotkey script you can edit and add your API keys (or whatever you want); press Win+Esc to bring them up, select one and press Enter. It will then automatically type your API keys into the active window.
 
 ![Script Example](https://github.com/asheroto/api-keys-hotkey/blob/master/script-example.gif?raw=true)
 
